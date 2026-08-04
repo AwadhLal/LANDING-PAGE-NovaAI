@@ -13,7 +13,9 @@ frameworks, no build step, no dependencies.
 ## 🔗 Live Demo
 
 ```
-// UPDATED SOON live
+https://awadhlal.github.io/LANDING-PAGE-NovaAI/
+
+
 ```
 
 ---
