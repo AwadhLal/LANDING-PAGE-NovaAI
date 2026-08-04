@@ -13,8 +13,9 @@ frameworks, no build step, no dependencies.
 ## 🔗 Live Demo
 
 ```
-https://awadhlal.github.io/LANDING-PAGE-NovaAI/
+https://nova-ai-landing-page-ap.vercel.app/
 
+https://awadhlal.github.io/LANDING-PAGE-NovaAI/
 
 ```
 
