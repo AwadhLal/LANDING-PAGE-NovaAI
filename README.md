@@ -20,6 +20,7 @@ https://awadhlal.github.io/LANDING-PAGE-NovaAI/
 ```
 
 ---
+---
 
 ## Project Overview
 
