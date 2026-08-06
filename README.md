@@ -68,7 +68,7 @@ gradient orbs, and scroll-triggered reveal animations.
 ## Folder Structure
 
 ```
-novaai-landing-page/
+LANDING-PAGE-NovaAI/
 ├── index.html      # Semantic markup for all sections
 ├── style.css        # Design tokens, layout, animations, responsive rules
 ├── script.js         # Vanilla JS: nav, accordion, counters, canvas, form validation
